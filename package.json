@@ -54,7 +54,7 @@
     "express": "^4.16.4",
     "flow-bin": "^0.120.1",
     "jest": "^23.6.0",
-    "jsdoc": "^3.5.5",
+    "jsdoc": "^3.6.4",
     "jsdoc-babel": "^0.5.0",
     "kitsune-jsdoc-template": "^1.0.3",
     "minami": "^1.2.3",
